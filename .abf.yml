@@ -1,2 +1,4 @@
+removed_sources:
+  jackson-src-1.9.4.tar.gz: 68b970b8279f07338935ad9c64fde1d63bc81fe1
 sources:
-  "jackson-src-1.9.4.tar.gz": 68b970b8279f07338935ad9c64fde1d63bc81fe1
+  jackson-src-1.9.11.tar.gz: 309b6a11e14735777dad8d33be1787ca7c8cd10f
